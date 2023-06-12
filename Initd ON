@@ -1,0 +1,6 @@
+
+mv /system/etc/initdx /system/etc/init.d
+sleep 1
+chmod 777 /system/etc/init.d
+chmod 777 /system/etc/init.d/*
+rm -rf /data/local/initdon
