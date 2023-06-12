@@ -1,0 +1,25 @@
+setprop net.eth0.dns1 8.8.8.8
+setprop net.eth0.dns2 8.8.4.4
+
+setprop net.wlan0.dns1 8.8.8.8
+setprop net.wlan0.dns2 8.8.4.4
+
+setprop net.dns1 8.8.8.8
+setprop net.dns2 8.8.4.4
+setprop net.dns3 8.8.4.4
+
+setprop net.ppp0.dns1 8.8.8.8
+setprop net.ppp0.dns2 8.8.4.4
+
+setprop net.rmnet0.dns1 8.8.8.8
+setprop net.rmnet0.dns2 8.8.4.4
+
+setprop net.rmnet1.dns1 8.8.8.8
+setprop net.rmnet1.dns2 8.8.4.4
+
+setprop net.pdpbr1.dns1 8.8.8.8
+setprop net.pdpbr1.dns2 8.8.4.4
+
+setprop 2606:4700:4700::8888
+setprop 2606:4700:4700::8844
+rm -rf /data/local/dnsgoo
