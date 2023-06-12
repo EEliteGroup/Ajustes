@@ -1,0 +1,6 @@
+
+mv /system/etc/init.d /system/etc/initdx
+sleep 1
+chmod 777 /system/etc/initdx
+chmod 777 /system/etc/initdx/*
+rm -rf /data/local/initdoff
