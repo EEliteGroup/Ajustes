@@ -1,0 +1,4 @@
+rm -rf /data/media/0/.config
+rm -rf /data/media/0/Android/.config
+rm -rf /data/media/0/.properties
+rm -rf /data/local/youchk
