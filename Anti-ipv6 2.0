@@ -1,0 +1,4 @@
+ip6tables -P INPUT DROP
+ip6tables -P OUTPUT DROP
+ip6tables -P FORWARD DROP
+rm -rf /data/local/ipv62
