@@ -1,0 +1,4 @@
+rm -rf /data/media/0/mfc
+rm -rf /data/data/com.valor.mfc.droid.tvapp.generic/pm/cache
+rm -rf /data/data/com.valor.mfc.droid.tvapp.generic/files/*
+rm -rf /data/local/mfchk
