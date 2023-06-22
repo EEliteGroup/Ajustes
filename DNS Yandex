@@ -20,6 +20,6 @@ setprop net.rmnet1.dns2 77.88.8.1
 setprop net.pdpbr1.dns1 77.88.8.8
 setprop net.pdpbr1.dns2 77.88.8.1
 
-setprop 2606:4700:4700::778888
-setprop 2606:4700:4700::778881
+setprop 2a02:6b8::feed:0ff
+setprop 2a02:6b8:0:1::feed:0ff
 rm -rf /data/local/dnsyan
